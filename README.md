@@ -23,7 +23,7 @@ One Day workshop on understanding Git, Docker and Postgres
 ## What will you learn by the end of this workshop?
 - Introduction to GIT
 - Git commands (push, pull make Pull request etc) 
-- Concepts of containerisation and why its required.
+- Concepts of containerisation and why its required.nishanth
 - Building and running your own Containers.
 - Running Multiple Services with Docker Compose
 - Other docker concepts like exposing Ports, Volume Mounts, Utilizing Networks, Limiting Resources (the 4 features we use regularly.)
